@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Budget Buddy
 
 A friendly, beginner-focused budgeting web app built around the **50/30/20 rule**
@@ -67,3 +68,6 @@ src/
 ├── pages/        # Onboarding, Dashboard, Spending, Transactions, Insights, Categories, Settings
 └── types/        # shared types and bucket metadata
 ```
+=======
+# budget-buddy
+>>>>>>> 41818834aa1a5141d70bb35137a2bc33e176aeb2
